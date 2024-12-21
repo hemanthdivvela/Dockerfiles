@@ -1,2 +1,2 @@
-ARG vesrion
-FROM almalinux:${vesrion}
+ARG version
+FROM almalinux:${version}
